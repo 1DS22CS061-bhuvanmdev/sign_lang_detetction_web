@@ -1,0 +1,10 @@
+mediapipe
+tensorflow
+opencv-python
+openai
+numpy
+mathplotlib
+pandas
+seaborn
+flask
+Flask-SSE
